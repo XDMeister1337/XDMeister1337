@@ -1,7 +1,5 @@
 ## Hello! 👋
 
-I am a recent Computer Science graduate from the West US looking trying to learn various development and automation tools!
-
 <!--
 **XDMeister1337/XDMeister1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
